@@ -1,2 +1,3 @@
 Dominar Git, Github y el control de versiones.
 Aprender a maquetar páginas web con HTML y CSS.
+aprender a programar en javascript
